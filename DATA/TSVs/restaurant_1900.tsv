@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Trattoria Rigoletto	via Fontane 54/b	Brescia	25133	Lombardy	Italy	45.573784	10.242922	€€€	Seafood, Italian	A simple environment, manages to create an interesting cuisine. The menu is quite extensive, the dishes are authentic and the atmosphere is welcoming.	['Air conditioning', 'Wheelchair access']	['amex', 'unionpay', 'dinersclub', 'discover', 'jcb', 'maestrocard', 'mastercard', 'visa']	+39 030 200 4140	None

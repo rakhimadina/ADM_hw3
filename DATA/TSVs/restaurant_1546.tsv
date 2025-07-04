@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Da Gelsomina	Via Migliara 72	Anacapri	80071	Campania	Italy	40.5417666	14.2114125	€€	Regional Cuisine	Access to this authentic family-run trattoria is either by foot or shuttle bus (phone ahead for the latter). Just a few metres from the restaurant, enjoy breathtaking views of the Parco dei Filosofi.	['Great view', 'Terrace']	['amex', 'dinersclub', 'mastercard', 'visa']	+39 081 837 1499	http://www.dagelsomina.com

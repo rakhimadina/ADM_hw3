@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Il Faggio	via Oremo 54	Pollone	13814	Piedmont	Italy	45.5823083	8.0055232	€€	Modern Cuisine	An elegant dining room with large windows and classic decor provides the setting for modern Mediterranean meat and fish dishes. The wine list features a good selection of labels from the region and further afield.	['Car park']	['amex', 'mastercard', 'visa']	+39 015 61252	https://www.ristoranteilfaggio.it/

@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Buca di Bacco	corso Italia 149	Pietra Ligure	17027	Liguria	Italy	44.1518199	8.2897517	€€	Seafood	The seafood specialities, the care in the choice of rare produce and the originality of the Proprietor characterise this establishment, situated as it is in the basement of a building.	['Air conditioning', 'Car park']	['amex', 'mastercard', 'visa']	+39 019 615307	None

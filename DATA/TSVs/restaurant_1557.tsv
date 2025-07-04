@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Trattoria Via Vai	via Libertà 18	Bolzone	26010	Lombardy	Italy	45.3321006	9.6612651	€€	Lombardian, Traditional Cuisine	Although the original chef has now left, the cuisine remains unchanged with a concise menu of regional specialities and a focus on meat dishes. Poultry takes pride of place on the menu.	['Air conditioning', 'Terrace']	['mastercard', 'visa']	+39 0373 268232	https://www.trattoriaviavai.it/

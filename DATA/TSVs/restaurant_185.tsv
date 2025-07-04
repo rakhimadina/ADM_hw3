@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Bel Ami	via Roma 86	Maglie	73024	Apulia	Italy	40.1234831	18.2971156	€€	Seafood	A 19C palazzo renovated in modern style in its guestrooms and restaurant alike. The menu features fish and seafood, including raw dishes, and champagnes.	['Air conditioning', 'Terrace', 'Wheelchair access']	['amex', 'dinersclub', 'mastercard', 'visa']	+39 0836 312930	https://www.hotelbelami.it/

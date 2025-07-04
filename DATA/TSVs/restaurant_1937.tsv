@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Scola	via Pennavaire 166	Castelbianco	17030	Liguria	Italy	44.1123062	8.0586737	€€€	Creative	Instead of the simple, rustic-style dishes you might expect at this restaurant, the cuisine is actually elaborate and of the highest quality – an excellent reason for venturing out here!	['Car park', 'Interesting wine list', 'Terrace']	['amex', 'dinersclub', 'mastercard', 'visa']	+39 0182 77015	https://www.scola1926.it/

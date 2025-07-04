@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Italia	piazza della Libertà 27	Quarona	13017	Piedmont	Italy	45.761494	8.270105	€€	Piedmontese	It's a pleasant surprise to discover the well - maintained and friendly modern establishment in this house in the centre of town. Creative dishes of Piedmontese cuisine.	['Terrace']	['amex', 'mastercard', 'visa']	+39 0163 430147	https://www.ristoranteitaliaquarona.it/

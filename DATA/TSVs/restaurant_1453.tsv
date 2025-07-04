@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Osteria Al GiGianca	via Broseta 113	Bergamo	24128	Lombardy	Italy	45.6934038	9.6465415	€€	Traditional Cuisine	Although the out - of - town location is a slight drawback, this restaurant passionately run has a welcoming atmosphere. Seasonal, regional cuisine, plus a good choice of wine and beers.	['Air conditioning']	['amex', 'maestrocard', 'mastercard', 'visa']	+39 035 568 4928	https://www.algigianca.com/

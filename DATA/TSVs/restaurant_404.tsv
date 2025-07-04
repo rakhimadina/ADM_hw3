@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Bagatto	via Ricciardi 24	Loano	17025	Liguria	Italy	44.1277571	8.2597607	€€	Ligurian, Classic Cuisine	Hidden down an alleyway in the town centre, this friendly trattoria boasts an attractive ceiling with exposed brickwork. An excellent address for fans of Ligurian cuisine, fish and seafood. House desserts include sour orange semifreddo.	['Air conditioning', 'Terrace']	['amex', 'mastercard', 'visa']	+39 019 675844	None

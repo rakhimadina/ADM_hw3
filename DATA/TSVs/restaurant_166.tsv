@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Le Colonne	via Benefattori 7	Santa Maria Maggiore	28857	Piedmont	Italy	46.1350178	8.4676249	€€	Country cooking, Traditional Cuisine	In the small historic center of town, a couple with comprehensive management experience operates this well maintained, modest restaurant offering eclectic cuisine.	[]	['mastercard', 'visa']	+39 0324 94893	https://www.ristorantelecolonne.it

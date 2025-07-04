@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Da Severino il Vecchio - Di Luciano	largo Abruzzi 2, ang. via Piemonte 23	Senorbì	09040	Sardinia	Italy	39.526185	9.1334416	€	Mediterranean Cuisine	This historic restaurant now has new premises with a classic yet modern feel. Mediterranean cuisine with a traditional and regional influence.	['Air conditioning', 'Car park']	['mastercard', 'visa']	+39 070 980 4197	None

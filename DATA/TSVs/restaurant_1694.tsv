@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Marina Grande	viale delle Regioni 4	Amalfi	84011	Campania	Italy	40.63385	14.60359	€€€	Seafood, Classic Cuisine	Establishment on the beach: wooden floors and white chairs in the linear room, where you can sample the traditional country cuisine; pleasant terrace for service in summer.	['Air conditioning', 'Great view', 'Terrace']	['mastercard', 'visa']	+39 089 871129	https://www.ristorantemarinagrande.com/

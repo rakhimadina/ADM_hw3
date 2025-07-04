@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Antica Osteria da Penacio	via Soghe 62	Arcugnano	36057	Veneto	Italy	45.4507347	11.5324236	€	Venetian, Seasonal Cuisine	A family - run restaurant in a villa on the edge of a wood: inside two refined dining rooms and a small, but well stocked, wine bar; traditional cuisine.	['Air conditioning', 'Car park', 'Terrace']	['amex', 'mastercard', 'visa']	+39 0444 273540	https://www.penacio.it/

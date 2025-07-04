@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Ego	via Stigliani 44	Matera	75100	Basilicata	Italy	40.6694389	16.6073164	€€€	Creative	Just a stone’s throw from the Sassi historic quarter, this modern, contemporary - style restaurant serves creative cuisine prepared by a young chef who already has plenty of experience under his belt.	['Air conditioning', 'Wheelchair access']	['amex', 'dinersclub', 'mastercard', 'visa']	+39 392 903 0963	https://www.egogourmet.it/

@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Altriménti	via Monte Bianco 2/a	Milan	20149	Lombardy	Italy	45.4745344	9.1510147	€€	Modern Cuisine, Seasonal Cuisine	An informal and contemporary restaurant which is elegant and yet retains a bistro feel. The cuisine is modern with meat and fish dishes featured on the menu, as well as a good number of vegetarian options. Good wine list.	[]	['amex', 'mastercard', 'visa']	+39 02 8277 8751	https://altrimenti.eu/

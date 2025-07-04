@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Hanswirt	piazza Gerold 3	Rablà	39020	Trentino-South Tyrol	Italy	46.6693991	11.0600354	€€	Regional Cuisine, Classic Cuisine	Situated in an old farmstead, this elegant and pleasant establishment has a warm and typically Tyrolese atmosphere.	['Car park', 'Terrace', 'Wheelchair access']	['maestrocard', 'mastercard', 'visa']	+39 0473 967148	https://www.hanswirt.com

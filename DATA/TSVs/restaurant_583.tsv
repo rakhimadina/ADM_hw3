@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Bistrot de Venise	calle dei Fabbri 4685, sestiere San Marco	Venice	30124	Veneto	Italy	45.435544	12.3364804	€€€€	Venetian	Diners will enjoy the lengthy wine list (available by the glass) and "historical" cuisine at this restaurant in a location known for its atmosphere.	['Air conditioning', 'Interesting wine list', 'Terrace']	['amex', 'mastercard', 'visa']	+39 041 523 6651	https://www.bistrotdevenise.com/

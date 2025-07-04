@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Corsaro Nero	Località Portu Maga	Marina di Arbus	09031	Sardinia	Italy	39.5779213	8.4661307	€€	Seafood	A wide choice of fresh fish and a menu with a firm focus on fish and seafood served in a large dining room offering views of the spectacular sunsets.	['Car park', 'Great view', 'Terrace']	['maestrocard', 'mastercard', 'visa']	+39 070 977236	https://www.hotelcorsaronero.com

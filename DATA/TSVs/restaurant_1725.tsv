@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Doc	via Vittorio Veneto 1	Borgio Verezzi	17022	Liguria	Italy	44.1598132	8.3063314	€€	Classic Cuisine	Quiet, well - kept restaurant located in an aristocratic, early twentieth - century villa surrounded by a pretty garden.	['Garden or park', 'Terrace']	['mastercard', 'visa']	+39 019 611477	None

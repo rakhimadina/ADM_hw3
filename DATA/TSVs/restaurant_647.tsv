@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Da Nicolo	corso Cavour 32	Carloforte	09014	Sardinia	Italy	39.1468203	8.3080589	€€	Seafood, Modern Cuisine	Located in an advantageous spot along the promenade, where there is a summer dining area, this restaurant is really patronized for the quality of its food. Serving seafood and Carlofortinian specialties.	['Terrace']	['amex', 'dinersclub', 'mastercard', 'visa']	+39 0781 854048	https://www.ristorantedanicolo.com/

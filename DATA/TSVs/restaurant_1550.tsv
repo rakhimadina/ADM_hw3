@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Kisté - Easy Gourmet	via Santa Maria de' Greci 2	Taormina	98039	Sicily	Italy	37.850777	15.283031	€€	Modern Cuisine	Housed in the 15C Casa Cipolla, with a romantic terrace for summer dining, Kistè is a treasure trove of gourmet Sicilian cuisine prepared in contemporary style.	['Air conditioning', 'Terrace']	['amex', 'dinersclub', 'mastercard', 'visa']	+39 333 371 1606	https://www.kiste.it/

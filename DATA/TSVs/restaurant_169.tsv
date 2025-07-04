@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Menarosti	via del Toro 12	Trieste	34125	Friuli-Venezia Giulia	Italy	45.6508	13.7790259	€€	Seafood	Dating back to 1903, this historic restaurant has a warm, welcoming feel. Excellent fish and seafood prepared using top - quality ingredients, where simple preparation allows the flavours to shine through.	['Air conditioning', 'Terrace']	['amex', 'mastercard', 'visa']	+39 040 661077	None

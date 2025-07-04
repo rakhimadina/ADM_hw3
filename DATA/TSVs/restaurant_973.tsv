@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+i-Fame	viale Regina Elena 28	Rimini	47921	Emilia-Romagna	Italy	44.0600315	12.5892022	€€	Creative	Enjoy creative cuisine made from excellent, locally sourced produce in this attractive restaurant. It is decorated in the same white colours and modern style as the hotel.	['Air conditioning', 'Terrace', 'Wheelchair access']	['amex', 'mastercard', 'visa']	+39 0541 386331	https://www.i-fame.it/

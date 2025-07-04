@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Da Gregorio	strada provinciale 101 136	Morrano Nuovo	05018	Umbria	Italy	42.7755985	12.1374042	€€	Umbrian	A family-run trattoria which is simple in style yet offers professional and courteous service. The menu focuses mainly on Umbrian specialities, fresh pasta, grilled dishes and an impressive selection of vegetables.	['Terrace', 'Wheelchair access']	['amex', 'dinersclub', 'mastercard', 'visa']	+39 0763 215011	None

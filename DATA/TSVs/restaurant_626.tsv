@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Il Liberty	viale Monte Grappa 6	Milan	20124	Lombardy	Italy	45.4804651	9.1912581	€€€	Creative, Contemporary	Occupying an Art Nouveau-style palazzo, this small restaurant with two rooms and a loft area has a friendly, welcoming atmosphere. The menu includes a selection of fish and meat dishes.	['Air conditioning']	['amex', 'dinersclub', 'mastercard', 'visa']	+39 02 2901 1439	https://www.il-liberty.it

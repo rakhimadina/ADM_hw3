@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Carlo Magno	via Campiani 9	Collebeato	25060	Lombardy	Italy	45.5748305	10.1904216	€€€	Mediterranean Cuisine	This restaurant housed in a country house dating from the 19C offers elegant period dining rooms and a menu featuring Mediterranean-style meat and fish dishes.	['Air conditioning', 'Car park', 'Interesting wine list', 'Terrace']	['amex', 'maestrocard', 'mastercard', 'visa']	+39 351 517 7244	https://carlomagno.it/

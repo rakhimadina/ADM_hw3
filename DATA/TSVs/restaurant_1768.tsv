@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Gibas	strada Panoramica Adriatica	Pesaro	61121	Marche	Italy	43.9275954	12.877271	€€	Seafood, Italian	This modern restaurant stands on the road that heads north from the town. It boasts panoramic views of the sea that can be enjoyed from the deck in summer. Contemporary - style fish dishes dominate the menu.	['Car park', 'Great view', 'Terrace']	['mastercard', 'visa']	+39 0721 405344	https://www.gibasristorante.it/

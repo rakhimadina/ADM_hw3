@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Buscone	Località Bosmenso Superiore 41	Varzi	27057	Lombardy	Italy	44.7909875	9.2208794	€	Country cooking, Traditional Cuisine	The difficulty, which perhaps you may encounter when trying to reach this trattoria, is compensated by the very pleasant family atmosphere and genuine home - made cooking.	['Car park', 'Terrace']	['mastercard', 'visa']	+39 0383 52224	https://www.ristorantebuscone.it/

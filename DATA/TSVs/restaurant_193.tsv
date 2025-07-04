@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Li Jalantuùmene	piazza de Galganis 9	Monte Sant'Angelo	71037	Apulia	Italy	41.7071157	15.955461	€€€	Apulian, Modern Cuisine	This rustic restaurant is faithful to the culinary traditions of the area, with an added spirit of discovery. It is located in a charming square. Pleasant outdoor area for summertime.	['Terrace']	['amex', 'dinersclub', 'mastercard', 'visa']	+39 0884 565484	https://www.li-jalantuumene.it/

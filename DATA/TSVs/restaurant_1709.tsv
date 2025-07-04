@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Molteni	via Ruzzina 2/4	Adria	45011	Veneto	Italy	45.0548986	12.0555485	€€	Seafood	Hospitality abounds in this establishment where the cuisine is inspired by local traditions, especially fish, in a favourably located restaurant in the historical centre on the banks of the Bianco canal.	['Air conditioning', 'Car park', 'Terrace']	['maestrocard', 'mastercard', 'visa']	+39 0426 21295	https://www.albergomolteni.it/

@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+La Locanda dei Beccaria	via Marconi 10	Montù Beccaria	27040	Lombardy	Italy	45.03443	9.312667	€€	Traditional Cuisine	Housed in the village’s historic wine cellar, this well - kept, rustic - style restaurant with typical wooden ceilings serves traditional, regional cuisine.	['Air conditioning', 'Terrace']	['amex', 'mastercard', 'visa']	+39 0385 262310	https://www.lalocandadeibeccaria.it/

@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Da Nilo	piazza Garibaldi 31	Cetona	53040	Tuscany	Italy	42.9645008	11.9004364	€€	Tuscan	Overlooking the picturesque main square of Cetona, which can be admired from the outdoor tables, this restaurant has a classic ambience. Typical Tuscan cuisine with an emphasis on meat dishes.	['Air conditioning', 'Terrace']	['amex', 'dinersclub', 'maestrocard', 'mastercard', 'visa']	+39 0578 239040	http://Iltigliodipiazza.it

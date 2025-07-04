@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Trattoria del Pesce	via Folco Portinari 27	Rome	00151	Lazio	Italy	41.8685979	12.4494124	€€	Seafood, Italian	A good selection of fresh and raw fish dishes served in a welcoming, vaguely bistro-style restaurant with young and competent staff. Parking can be difficult, but your patience is definitely rewarded!	['Air conditioning']	['amex', 'mastercard', 'visa']	+39 349 335 2560	https://www.trattoriadelpesce.it/wp/

@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Pascalucci	via Appia 1	San Nicola Manfredi	82010	Campania	Italy	41.0942246	14.8327808	€	Campanian, Seafood	A traditional restaurant serving regional cuisine, as well as skilfully prepared fish dishes made from fresh produce. Specialities include Beneventano beef fillet and octopus in aspic jelly.	['Air conditioning', 'Car park', 'Terrace']	['amex', 'mastercard', 'visa']	+39 0824 778400	https://www.pascalucci.it/

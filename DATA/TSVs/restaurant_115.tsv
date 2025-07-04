@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Osteria L'Orciaia	via Capitan Goro 10	Montebenichi	52021	Tuscany	Italy	43.4057953	11.5448434	€	Tuscan, Traditional Cuisine	A small rustic - style hostelry set inside a 16C building, with a cosy summer terrace. Typical Tuscan fare based on excellent produce and with some personal touches.	['Terrace']	['maestrocard', 'mastercard', 'visa']	+39 055 991 0067	https://www.osterialorciaia.it/

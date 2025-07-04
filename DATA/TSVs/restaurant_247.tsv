@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Federico II	via Duomo 30	Termoli	86039	Molise	Italy	42.0043381	14.9973442	€€	Seafood	A quiet restaurant right in the historic centre, just a stone’s throw from the cathedral. The young owner prepares creative dishes from the fresh fish and seafood that he purchases on a daily basis.	['Air conditioning', 'Terrace']	['mastercard', 'visa']	+39 0875 85414	None

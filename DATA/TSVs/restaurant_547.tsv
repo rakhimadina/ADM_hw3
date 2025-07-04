@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Darmagi	via Rivera 7	Mercenasco	10010	Piedmont	Italy	45.3515984	7.8849938	€€	Piedmontese, Traditional Cuisine	Small villa in secluded position with warm, homely atmosphere, especially in the nice room with fireplace. The range of cuisine is rich in tradition.	['Air conditioning', 'Car park', 'Interesting wine list', 'Terrace']	['maestrocard', 'mastercard', 'visa']	+39 0125 710094	https://www.ristorantedarmagi.it/

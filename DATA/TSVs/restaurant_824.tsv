@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Al Tonno di Corsa	via Marconi 47	Carloforte	09014	Sardinia	Italy	39.1468581	8.3071201	€€	Seafood	Not only the restaurant, but a large part of the tantalising menu as well is based on the tuna caught in the nets. Open kitchen; two small dining rooms and two pleasant little terraces.	['Terrace']	['amex', 'mastercard', 'visa']	+39 0781 855106	https://www.tonnodicorsa.com

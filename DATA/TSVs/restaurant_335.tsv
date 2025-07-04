@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+La Ferrata	via Gorizia 7	Pordenone	33170	Friuli-Venezia Giulia	Italy	45.954875	12.6595471	€€	Regional Cuisine	Copper pots and lids and photos of locomotives adorn the walls of this friendly and welcoming trattoria. Enjoy generous portions of local specialities, including delicious snails cooked in butter.	['Air conditioning']	['amex', 'maestrocard', 'mastercard', 'visa']	+39 0434 20562	None

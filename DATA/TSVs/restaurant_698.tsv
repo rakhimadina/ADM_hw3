@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Stella d'Italia	piazza Carlo Alberto 25	Pastrengo	37010	Veneto	Italy	45.4925531	10.7993215	€€	Classic Cuisine, Country cooking	Regional specialities, including snails and pike, in a historical establishment, once an inn now an elegant establishment under the management of Signor Umberto.	['Garden or park', 'Terrace']	['amex', 'dinersclub', 'mastercard', 'visa']	+39 045 717 0034	https://www.stelladitalia.it/

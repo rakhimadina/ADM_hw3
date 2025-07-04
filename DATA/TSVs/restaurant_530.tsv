@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+La Coccinella	via Provinciale 5	Serravalle Langhe	12050	Piedmont	Italy	44.5579712	8.0599063	€€	Piedmontese	Three brothers, all of them experts, are the enthusiastic managers of this very fine restaurant. Recent renovation has increased the comfort and popularity of the place. The cuisine is Piedmontese.	['Car park']	['maestrocard', 'mastercard', 'visa']	+39 0173 748220	https://www.trattoriacoccinella.com/

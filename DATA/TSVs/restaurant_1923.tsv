@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Antica Locanda	piazza della Seta, località San Leucio	Caserta	81100	Campania	Italy	41.0985915	14.3172081	€	Campanian, Seafood	This establishment is practically a trattoria; one can dine in either of two characteristic rooms separated by a brick archway. The cuisine is typical of the Naples area and rice dishes are the specialty.	['Air conditioning', 'Terrace']	['amex', 'mastercard', 'visa']	+39 0823 305444	None

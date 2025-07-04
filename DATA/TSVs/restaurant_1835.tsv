@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Malenco	via Funivia 22	Chiesa in Valmalenco	23023	Lombardy	Italy	46.2739486	9.8515438	€€	Lombardian	Modern furnishings in the dining room, with panoramic windows looking out over the valley, typical local menu: traditional dishes at reasonable prices.	['Car park', 'Great view']	['mastercard', 'visa']	+39 0342 452182	https://ristorantemalenco.wixsite.com/valmalenco

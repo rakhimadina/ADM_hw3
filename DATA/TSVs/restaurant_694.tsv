@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Lipadusa	via Bonfiglio 16	Lampedusa	92010	Sicily	Italy	35.5038155	12.6116345	€€	Mediterranean Cuisine	In the centre of the village, a classic very simple atmosphere for this family run establishment with typical gastronomic dishes.	['Air conditioning', 'Terrace']	['dinersclub', 'maestrocard', 'mastercard', 'visa']	+39 0922 970267	None

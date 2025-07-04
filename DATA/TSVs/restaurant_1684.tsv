@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Cascina Lautier	strada Baldissero 121	Chieri	10023	Piedmont	Italy	45.0261605	7.8269632	€€	Country cooking, Modern Cuisine	Situated outside the town on top of a small hill, this elegant restaurant serves modern country cuisine, with some personal interpretations.	['Air conditioning', 'Car park', 'Garden or park', 'Terrace', 'Wheelchair access']	['mastercard', 'visa']	+39 339 721 4259	https://www.cascinalautier.it/it/

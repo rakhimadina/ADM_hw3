@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Corte Visconti	via Roma 9	Somma Lombardo	21019	Lombardy	Italy	45.6838676	8.7063043	€€	Country cooking, Creative	A classical, rustic style environment with walls in stone and brick vaulted or wood and stone ceilings. The cuisine is authentically local but with a pleasant touch of creativity.	['Air conditioning', 'Terrace']	['amex', 'mastercard', 'visa']	+39 0331 254873	https://www.cortevisconti.it/

@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Stube Ladina	via Precumon 24	Arabba	32020	Veneto	Italy	46.49546	11.868114	€€	Alpine, Traditional Cuisine	The hotel owner is also the chef, serving carefully prepared and well - presented dishes made from regional produce in a quiet Stube - style dining room. An interesting wine list provides the icing on the cake.	[]	['mastercard', 'visa']	+39 0436 750076	https://www.alpenrosearabba.it/it/ristorante-ad-arabba/

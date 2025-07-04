@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Osteria Manzoni	via Roma 87	Barzago	23890	Lombardy	Italy	45.75679	9.31183	€€	Contemporary	This restaurant housed within a colourful, skilfully restored historic building with exposed stonework has a young friendly couple at the helm. The menu features delicious, refined and traditional Italian cuisine.	['Air conditioning']	['amex', 'dinersclub', 'mastercard', 'visa']	+39 031 414 3305	http://www.osteriamanzoni.it

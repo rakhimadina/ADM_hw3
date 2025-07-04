@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Trattoria Losanna	via San Rocco 40	Masio	15024	Piedmont	Italy	44.8675184	8.4205078	€	Piedmontese	This friendly restaurant has a pleasantly convivial and lively ambience. Try a selection of homemade antipasto to start, followed by generous portions of traditional cuisine from Monferrato.	['Air conditioning', 'Car park']	['amex', 'dinersclub', 'jcb', 'maestrocard', 'mastercard', 'visa']	+39 0131 799525	None

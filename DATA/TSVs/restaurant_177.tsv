@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Saur	via Filippo Turati 8	Barco	25034	Lombardy	Italy	45.3794034	9.9010106	€€	Italian Contemporary	In a tiny rural village, this contemporary, almost minimalist-style restaurant serves modern cuisine with an emphasis on seasonal, regional produce.	['Air conditioning', 'Terrace', 'Wheelchair access']	['mastercard', 'visa']	+39 030 941149	https://ristorantesaur.it

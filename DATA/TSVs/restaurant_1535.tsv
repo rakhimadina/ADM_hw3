@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Locanda Stella d'Oro	via Mazzini 8	Soragna	43019	Emilia-Romagna	Italy	44.9284623	10.1244937	€€	Emilian	The original flavour and magic of a trattoria can still be found in this establishment. The cuisine is traditional with a personal touch.	['Air conditioning', 'Interesting wine list', 'Terrace']	['maestrocard', 'mastercard', 'visa']	+39 0524 597122	https://www.ristorantestelladoro.it/

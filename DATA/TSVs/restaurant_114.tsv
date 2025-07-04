@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Osteria del Borgo	via Pietro Custodi 5	Galliate	28066	Piedmont	Italy	45.4780716	8.697357	€€	Creative	Situated in the heart of the old town, this restaurant is run by friendly and welcoming staff. The menu features a mix of meat and fish dishes that are prepared in traditional style with the occasional personalised touch.	['Air conditioning']	['amex', 'dinersclub', 'mastercard', 'visa']	+39 349 160 3750	None

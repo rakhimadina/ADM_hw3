@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Al Gatto Nero	via Giudecca 88	Burano	30142	Veneto	Italy	45.4847718	12.4163344	€€€	Venetian, Seafood	Family - run, informal service, care in the choice of raw materials in a typical welcoming trattoria with Venetian and seafood cuisine; delightful outside area in the summer.	['Air conditioning', 'Terrace']	['amex', 'mastercard', 'visa']	+39 041 730120	https://www.gattonero.com/

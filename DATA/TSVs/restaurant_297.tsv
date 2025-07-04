@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+La Maison Delfino	via Lagrange 4, borgo Mercato	Moncalieri	10024	Piedmont	Italy	45.0001263	7.6736825	€€	Seafood	This small, elegant restaurant outside the centre is enthusiastically run by two brothers: round tables and well - kept dining room for savoring seafood specialities.	['Air conditioning', 'Terrace']	['mastercard', 'visa']	+39 011 642552	https://www.lamaisondelfino.com/

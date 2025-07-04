@@ -1,0 +1,2 @@
+restaurantName	address	city	postalCode	region	country	latitude	longitude	priceRange	cuisineType	description	facilitiesServices	creditCards	phoneNumber	website
+Al Dragone	via Duomo 8	Vieste	71019	Apulia	Italy	41.8817611	16.1810822	€€	Apulian, Modern Cuisine	Occupying a natural cave, this typical restaurant serves traditional regional dishes prepared with care and imagination. House specialities include scampi in an almond crust.	['Air conditioning']	['amex', 'dinersclub', 'mastercard', 'visa']	+39 0884 195 2046	https://www.aldragone.it/
